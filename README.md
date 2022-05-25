@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 [![Youtube](https://img.shields.io/badge/-InPRTx-ff0000?style=flat-square&logo=YouTube&logoColor=white&labelColor=ff0000)](https://www.youtube.com/channel/UCEgdCbJI2z0mGW_8XkAHxqQ)
 
 ## 💻 Working Environment
-[![Windows 10 LTSC 2021](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://docs.microsoft.com/en-us/windows/whats-new/ltsc/whats-new-windows-10-2021)
+[![Windows 10 LTSC 2021](https://img.shields.io/badge/Windows%2010%20LTSC-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://docs.microsoft.com/en-us/windows/whats-new/ltsc/whats-new-windows-10-2021)
 [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
