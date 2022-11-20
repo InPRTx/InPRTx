@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 [![BiliBili](https://img.shields.io/badge/-InPRTx-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/343854555)
 [![Zhihu](https://img.shields.io/badge/-InPRTx-0e88eB?style=flat-square&logo=zhihu&logoColor=fff)](https://www.zhihu.com/people/inprtx)
 [![Sina Weibo](https://img.shields.io/badge/-InPRTx-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/InPRTx)
-[![Youtube](https://img.shields.io/badge/-InPRTx-ff0000?style=flat-square&logo=YouTube&logoColor=white&labelColor=ff0000)](https://www.youtube.com/channel/UCEgdCbJI2z0mGW_8XkAHxqQ)
+[![Youtube](https://img.shields.io/badge/-InPRTx-ff0000?style=flat-square&logo=YouTube&logoColor=white&labelColor=ff0000)](https://www.youtube.com/@InPRTx)
 
 ## 💻 Working Environment
-[![Windows 10 LTSC 2021](https://img.shields.io/badge/Windows%2010%20LTSC-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://docs.microsoft.com/en-us/windows/whats-new/ltsc/whats-new-windows-10-2021)
-[![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://learn.microsoft.com/en-us/windows/whats-new/windows-11-overview)
+[![Debian 11](https://img.shields.io/badge/Debian%2011-d0074e?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/releases/bullseye/)
