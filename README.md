@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ## 🌱 Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)](https://nodejs.org/)
-[![Go](https://img.shields.io/badge/-GO-00ADD8?style=flat-square&logo=go&logoColor=fff)](https://go.dev/)
 ## 📫 Get in Touch
 
 [![Telegram](https://img.shields.io/badge/InPRTx-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/InPRTx)
