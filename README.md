@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=InPRTx&hide_border=true&title_color=000&layout=compact"> -->
 
- - Chinese / 21 y.o.
+ - Chinese / 23 y.o.
  - Amateur Tipster
 ## 🌱 Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)](https://www.python.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)](https://nodejs.org/)
 ## 📫 Get in Touch
 
 [![Telegram](https://img.shields.io/badge/InPRTx-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/InPRTx)
@@ -38,4 +37,4 @@ Here are some ideas to get you started:
 
 ## 💻 Working Environment
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://learn.microsoft.com/en-us/windows/whats-new/windows-11-overview)
-[![Debian 11](https://img.shields.io/badge/Debian%2011-d0074e?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/releases/bullseye/)
+[![Debian 12](https://img.shields.io/badge/Debian%2011-d0074e?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/releases/bullseye/)
